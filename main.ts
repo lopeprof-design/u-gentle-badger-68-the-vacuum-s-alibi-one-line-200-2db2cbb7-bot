@@ -19,7 +19,7 @@ import { join } from "node:path";
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? "/output";
 const OUTPUT_FILE = join(OUTPUT_DIR, "entry.txt");
 
-// The alibi, one line, 89 characters — well inside the 200-character gate.
+// The alibi, one line, 87 characters — well inside the 200-character gate.
 const ALIBI =
   "My lidar mapped that dust as a load-bearing wall, and I am not licensed for demolition.";
 
